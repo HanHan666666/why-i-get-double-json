@@ -1,0 +1,10 @@
+
+
+server:
+  port: 55668
+
+spring:
+  security:
+    user:
+      name: admin
+      password: 123
